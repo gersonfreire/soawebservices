@@ -1,0 +1,11 @@
+# python-dotenv==1.0.0
+# requests==2.31.0
+# click==8.1.7
+# pydantic==2.5.2
+# rich==13.7.0
+
+python-dotenv
+requests
+click
+pydantic
+rich
