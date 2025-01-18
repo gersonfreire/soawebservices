@@ -1,4 +1,3 @@
-
 # SOA WebServices SDK
 
 [🇺🇸 English Version](README.md)
@@ -13,7 +12,6 @@ Um SDK e CLI em Python para interagir com a API do SOA WebServices ([Site do SOA
 ```bash
 pip install -r requirements.txt
 ```
-
 
 3. Configure as variáveis de ambiente no [.env](vscode-file://vscode-app/c:/Program%20Files/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html):
 
@@ -87,7 +85,17 @@ O SDK inclui tratamento de erros abrangente e registro de logs. Todos os erros d
 
 ## Referências:
 
-* [Status dos serviços](https://status.i-stream.com.br/status/servicos)
-* [Documentação Swagger da API](https://services.soawebservices.com.br/documentacao/index.html)
+[Status dos serviços](https://status.i-stream.com.br/status/servicos)
+
+[Documentação Swagger da API](https://services.soawebservices.com.br/documentacao/index.html)
+
+## Como contribuir
+
+1. Faça um fork do repositório
+2. Crie uma nova branch (`git checkout -b feature-branch`)
+3. Faça suas alterações
+4. Faça commit das suas alterações (`git commit -m 'Adicionar nova funcionalidade'`)
+5. Envie para a branch (`git push origin feature-branch`)
+6. Abra um Pull Request
 
 ---
