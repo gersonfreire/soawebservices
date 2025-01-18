@@ -1,6 +1,10 @@
 # SOA WebServices SDK
 
+[🇧🇷 Versão em Português](README_pt.md)
+
 A Python SDK and CLI for interacting with SOA WebServices API ([SOAWebservices Web Site](https://www.soawebservices.com.br/))
+
+# SOA WebServices SDK
 
 ## Installation
 
