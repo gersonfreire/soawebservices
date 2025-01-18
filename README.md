@@ -1,14 +1,6 @@
 # SOA WebServices SDK
 
-A Python SDK and CLI for interacting with SOA WebServices API.
-
-References:
-
-* [Services status](https://status.i-stream.com.br/status/servicos)
-* [API Swagger docs](https://services.soawebservices.com.br/documentacao/index.html)
-
-* https://portal.soawebservices.com.br/Identity/Login
-* https://www.soawebservices.com.br/
+A Python SDK and CLI for interacting with SOA WebServices API ([SOAWebservices Web Site](https://www.soawebservices.com.br/))
 
 ## Installation
 
@@ -22,11 +14,16 @@ pip install -r requirements.txt
 3. Configure environment variables in `.env`:
 
 ```
-BASE_URL=https://services.soawebservices.com.br
-EMAIL=your_email
-PASSWORD=your_password
-LOG_LEVEL=INFO
+BASE_URL=https://homologacao.soawebservices.com.br
+PROD_BASE_URL=https://services.soawebservices.com.br
+EMAIL=<your-sowawebservices-username>
+PASSWORD=<your-sowawebservices-password>
 ```
+
+## Where to manage your account and get the credentials:
+
+* [SOAWebServices Portal](https://portal.soawebservices.com.br/Identity/Login)
+* [SOAWebservices Web Site](https://www.soawebservices.com.br/)
 
 ## Usage
 
@@ -79,3 +76,10 @@ Logs are written to `logs/soa_sdk.log` and rotated when they reach 10MB in size.
 ## Error Handling
 
 The SDK includes comprehensive error handling and logging. All API errors are logged and raised as exceptions.
+
+## References:
+
+* [Services status](https://status.i-stream.com.br/status/servicos)
+* [API Swagger docs](https://services.soawebservices.com.br/documentacao/index.html)
+
+---
