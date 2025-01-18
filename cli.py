@@ -4,7 +4,7 @@ from datetime import datetime
 from rich.console import Console
 from rich.table import Table
 from soa_sdk.client import SOAWebServicesClient
-
+  
 console = Console()
 
 @click.group()
