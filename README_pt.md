@@ -89,6 +89,8 @@ O SDK inclui tratamento de erros abrangente e registro de logs. Todos os erros d
 
 [Documentação Swagger da API](https://services.soawebservices.com.br/documentacao/index.html)
 
+[Novo CNPJ](https://github.com/gersonfreire/novo-cnpj)
+
 ## Como contribuir
 
 1. Faça um fork do repositório

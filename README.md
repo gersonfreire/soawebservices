@@ -85,6 +85,7 @@ The SDK includes comprehensive error handling and logging. All API errors are lo
 
 * [Services status](https://status.i-stream.com.br/status/servicos)
 * [API Swagger docs](https://services.soawebservices.com.br/documentacao/index.html)
+* [New CNPJ](https://github.com/gersonfreire/novo-cnpj)
 
 ## How to Contribute
 
