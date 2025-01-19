@@ -91,6 +91,8 @@ O SDK inclui tratamento de erros abrangente e registro de logs. Todos os erros d
 
 [Novo CNPJ](https://github.com/gersonfreire/novo-cnpj)
 
+[Telegram Bot](https://t.me/PessoaBot)
+
 ## Como contribuir
 
 1. Faça um fork do repositório
