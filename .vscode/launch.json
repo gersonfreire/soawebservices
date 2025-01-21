@@ -11,8 +11,9 @@
             "program": "${workspaceFolder}/cli.py",
             "console": "integratedTerminal",
             "args": [
+                // "pessoafisicanfe", "--documento", "12345678900", "--data-nascimento", "1990-01-01"
                 "saldo"
             ]
-        }  
+        }
     ]
 }
